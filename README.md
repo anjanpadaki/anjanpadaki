@@ -1,6 +1,6 @@
 ## Hi there 👋 Anjan here!
 - 🌱 I’m currently learning:Web Development
-- - 📫 How to reach me: www.linkedin.com/in/anjanpadaki
+-  📫 How to reach me: www.linkedin.com/in/anjanpadaki
 
 <!--
 **anjanpadaki/anjanpadaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
