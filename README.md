@@ -31,7 +31,7 @@ Building better full stack applications using my current knowledge of web dev.
 
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anjanpadaki)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjanpadaki/)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anjanpadaki27/)
 
 Open to collaborating on exciting projects, discussing technology, or just connecting about software development. Feel free to reach out with new ideas and opportunities!
