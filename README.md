@@ -15,17 +15,10 @@ Computer Science undergrad student at MSRIT,Bangalore.Passionate about solving r
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
 
 
 ## 🌱 Current Focus
 Learning and enhancing my knowledge in AI/ML.
-
-Building better full stack applications using my current knowledge of web dev.
 
 
 ## 📫 Connect With Me
